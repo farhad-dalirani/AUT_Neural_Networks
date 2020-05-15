@@ -1,0 +1,1 @@
+{"feedback_cof": 10, "max_epoch": 150, "layers": [1, 2, 1], "activations": ["tanh", "tanh"]}
