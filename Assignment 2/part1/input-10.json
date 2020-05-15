@@ -1,0 +1,15 @@
+{
+		"digits_letters_digits": "digits",
+        "ratio_of_train_set":0.80,
+		"ratio_of_valid_set":0.10,
+		"ratio_of_test_set":0.10,
+        "learning_rate":0.01,
+        "max_epochs":30,
+		"cut_cost": -1,
+        "random_state":2,
+		"K_fold": 5,
+		"neurons_layes":[1024,  20, 10],
+		"type_layers": ["tanh",  "sigmoid"],
+		"type_of_cost": "MSE",
+		"mode": "momentum"
+}

@@ -1,0 +1,444 @@
+Dataset: 
+digits
+Number of neurons in each layer:
+[1024, 64, 10]
+Activation of each layer:
+['tanh', 'sigmoid']
+Cost type:
+MSE
+Mode of training:
+batch
+==============================================
+
+======================V=======================
+
+Max Epoch:
+5
+Learning rate:
+0.001
+Train Error:
+0.9509558823529412
+Valid Error:
+0.9388235294117647
+Test Error:
+0.9511764705882353
+======================V=======================
+
+Max Epoch:
+5
+Learning rate:
+0.003
+Train Error:
+0.9486029411764706
+Valid Error:
+0.9376470588235294
+Test Error:
+0.9488235294117647
+======================V=======================
+
+Max Epoch:
+5
+Learning rate:
+0.006
+Train Error:
+0.9444117647058824
+Valid Error:
+0.9364705882352942
+Test Error:
+0.9423529411764706
+======================V=======================
+
+Max Epoch:
+5
+Learning rate:
+0.01
+Train Error:
+0.9298529411764705
+Valid Error:
+0.9229411764705883
+Test Error:
+0.9323529411764706
+======================V=======================
+
+Max Epoch:
+5
+Learning rate:
+0.06
+Train Error:
+0.8256617647058824
+Valid Error:
+0.83
+Test Error:
+0.8264705882352941
+======================V=======================
+
+Max Epoch:
+5
+Learning rate:
+0.1
+Train Error:
+0.7902941176470588
+Valid Error:
+0.7888235294117647
+Test Error:
+0.7923529411764706
+======================V=======================
+
+Max Epoch:
+5
+Learning rate:
+0.5
+Train Error:
+0.495
+Valid Error:
+0.5011764705882353
+Test Error:
+0.4852941176470588
+======================V=======================
+
+Max Epoch:
+50
+Learning rate:
+0.001
+Train Error:
+0.930514705882353
+Valid Error:
+0.9235294117647059
+Test Error:
+0.9347058823529412
+======================V=======================
+
+Max Epoch:
+50
+Learning rate:
+0.003
+Train Error:
+0.8649264705882352
+Valid Error:
+0.8682352941176471
+Test Error:
+0.8605882352941177
+======================V=======================
+
+Max Epoch:
+50
+Learning rate:
+0.006
+Train Error:
+0.8283823529411765
+Valid Error:
+0.831764705882353
+Test Error:
+0.8264705882352941
+======================V=======================
+
+Max Epoch:
+50
+Learning rate:
+0.01
+Train Error:
+0.7891911764705882
+Valid Error:
+0.7888235294117647
+Test Error:
+0.7941176470588235
+======================V=======================
+
+Max Epoch:
+50
+Learning rate:
+0.06
+Train Error:
+0.37191176470588233
+Valid Error:
+0.3841176470588235
+Test Error:
+0.37176470588235294
+======================V=======================
+
+Max Epoch:
+50
+Learning rate:
+0.1
+Train Error:
+0.2736029411764706
+Valid Error:
+0.28058823529411764
+Test Error:
+0.27588235294117647
+======================V=======================
+
+Max Epoch:
+50
+Learning rate:
+0.5
+Train Error:
+0.12816176470588236
+Valid Error:
+0.15176470588235294
+Test Error:
+0.13
+======================V=======================
+
+Max Epoch:
+100
+Learning rate:
+0.001
+Train Error:
+0.8935294117647059
+Valid Error:
+0.8905882352941177
+Test Error:
+0.8864705882352941
+======================V=======================
+
+Max Epoch:
+100
+Learning rate:
+0.003
+Train Error:
+0.8283823529411765
+Valid Error:
+0.8323529411764706
+Test Error:
+0.8270588235294117
+======================V=======================
+
+Max Epoch:
+100
+Learning rate:
+0.006
+Train Error:
+0.7705147058823529
+Valid Error:
+0.768235294117647
+Test Error:
+0.7729411764705882
+======================V=======================
+
+Max Epoch:
+100
+Learning rate:
+0.01
+Train Error:
+0.6868382352941177
+Valid Error:
+0.6858823529411765
+Test Error:
+0.6923529411764706
+======================V=======================
+
+Max Epoch:
+100
+Learning rate:
+0.06
+Train Error:
+0.2439705882352941
+Valid Error:
+0.2511764705882353
+Test Error:
+0.23823529411764705
+======================V=======================
+
+Max Epoch:
+100
+Learning rate:
+0.1
+Train Error:
+0.17911764705882352
+Valid Error:
+0.1976470588235294
+Test Error:
+0.18529411764705883
+======================V=======================
+
+Max Epoch:
+100
+Learning rate:
+0.5
+Train Error:
+0.09544117647058824
+Valid Error:
+0.11647058823529412
+Test Error:
+0.09235294117647058
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.001
+Train Error:
+0.6873529411764706
+Valid Error:
+0.6864705882352942
+Test Error:
+0.6935294117647058
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.003
+Train Error:
+0.3725735294117647
+Valid Error:
+0.3847058823529412
+Test Error:
+0.37176470588235294
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.006
+Train Error:
+0.24286764705882352
+Valid Error:
+0.24941176470588236
+Test Error:
+0.23823529411764705
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.01
+Train Error:
+0.1784558823529412
+Valid Error:
+0.19823529411764707
+Test Error:
+0.18470588235294116
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.06
+Train Error:
+0.08485294117647059
+Valid Error:
+0.10705882352941176
+Test Error:
+0.08294117647058824
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.1
+Train Error:
+0.06573529411764706
+Valid Error:
+0.08470588235294117
+Test Error:
+0.06823529411764706
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.5
+Train Error:
+0.028308823529411765
+Valid Error:
+0.04294117647058823
+Test Error:
+0.036470588235294116
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.001
+Train Error:
+0.6873529411764706
+Valid Error:
+0.6864705882352942
+Test Error:
+0.6935294117647058
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.003
+Train Error:
+0.3725735294117647
+Valid Error:
+0.3847058823529412
+Test Error:
+0.37176470588235294
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.006
+Train Error:
+0.24286764705882352
+Valid Error:
+0.24941176470588236
+Test Error:
+0.23823529411764705
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.01
+Train Error:
+0.1784558823529412
+Valid Error:
+0.19823529411764707
+Test Error:
+0.18470588235294116
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.06
+Train Error:
+0.08485294117647059
+Valid Error:
+0.10705882352941176
+Test Error:
+0.08294117647058824
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.1
+Train Error:
+0.06573529411764706
+Valid Error:
+0.08470588235294117
+Test Error:
+0.06823529411764706
+======================V=======================
+
+Max Epoch:
+1000
+Learning rate:
+0.5
+Train Error:
+0.028308823529411765
+Valid Error:
+0.04294117647058823
+Test Error:
+0.036470588235294116
+==============================================
+
+Best Test Error:
+0.036470588235294116
+Train Error of Best Test Error:
+0.028308823529411765
+Validation Error of Best Test Error:
+0.04294117647058823
+Learning Rate of Best Test Error:
+0.5
+Max Epoch of Best Test Error:
+1000

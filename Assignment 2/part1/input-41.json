@@ -1,0 +1,15 @@
+{
+		"digits_letters_digits": "letters_digits",
+        "ratio_of_train_set":0.80,
+		"ratio_of_valid_set":0.10,
+		"ratio_of_test_set":0.10,
+        "learning_rate":0.1,
+        "max_epochs":4768,
+		"cut_cost": -1,
+        "random_state":2,
+		"K_fold": -1,
+		"neurons_layes":[1024,  64, 64, 64, 64,  64, 64, 46],
+		"type_layers": ["tanh", "tanh", "tanh",  "tanh",  "tanh", "tanh", "sigmoid"],
+		"type_of_cost": "cross_entropy",
+		"mode": "batch"
+}
