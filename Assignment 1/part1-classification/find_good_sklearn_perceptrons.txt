@@ -1,0 +1,910 @@
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.11545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.11538461538461539
+Test Error= 0.08695652173913043
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.14545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.14423076923076922
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.14545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.14423076923076922
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.14545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.14423076923076922
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.14545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.14423076923076922
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.14545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.14423076923076922
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.14545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.14423076923076922
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.11545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.11538461538461539
+Test Error= 0.08695652173913043
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.14545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.14423076923076922
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 0
+ratio of train set: 0.7
+10-fold-error error: 0.14545454545454545
+Train Error(Ordinary Error, not k-fold)= 0.14423076923076922
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.23000000000000004
+Train Error(Ordinary Error, not k-fold)= 0.23076923076923078
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.23000000000000004
+Train Error(Ordinary Error, not k-fold)= 0.23076923076923078
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.2490909090909091
+Train Error(Ordinary Error, not k-fold)= 0.25
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.23000000000000004
+Train Error(Ordinary Error, not k-fold)= 0.23076923076923078
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.23000000000000004
+Train Error(Ordinary Error, not k-fold)= 0.23076923076923078
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.23000000000000004
+Train Error(Ordinary Error, not k-fold)= 0.23076923076923078
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.2490909090909091
+Train Error(Ordinary Error, not k-fold)= 0.25
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.2490909090909091
+Train Error(Ordinary Error, not k-fold)= 0.25
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.23000000000000004
+Train Error(Ordinary Error, not k-fold)= 0.23076923076923078
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 1
+ratio of train set: 0.7
+10-fold-error error: 0.23000000000000004
+Train Error(Ordinary Error, not k-fold)= 0.23076923076923078
+Test Error= 0.4782608695652174
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.19272727272727275
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.19363636363636366
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.21739130434782608
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.19363636363636366
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.21739130434782608
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.19272727272727275
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.19272727272727275
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.19272727272727275
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.19272727272727275
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.17272727272727276
+Train Error(Ordinary Error, not k-fold)= 0.17307692307692307
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.19272727272727275
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 2
+ratio of train set: 0.7
+10-fold-error error: 0.19272727272727275
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.439090909090909
+Train Error(Ordinary Error, not k-fold)= 0.4423076923076923
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.4881818181818181
+Train Error(Ordinary Error, not k-fold)= 0.49038461538461536
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.4881818181818181
+Train Error(Ordinary Error, not k-fold)= 0.49038461538461536
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.4881818181818181
+Train Error(Ordinary Error, not k-fold)= 0.49038461538461536
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.4881818181818181
+Train Error(Ordinary Error, not k-fold)= 0.49038461538461536
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.4881818181818181
+Train Error(Ordinary Error, not k-fold)= 0.49038461538461536
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.4881818181818181
+Train Error(Ordinary Error, not k-fold)= 0.49038461538461536
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.4881818181818181
+Train Error(Ordinary Error, not k-fold)= 0.49038461538461536
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.439090909090909
+Train Error(Ordinary Error, not k-fold)= 0.4423076923076923
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 3
+ratio of train set: 0.7
+10-fold-error error: 0.439090909090909
+Train Error(Ordinary Error, not k-fold)= 0.4423076923076923
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.26181818181818184
+Train Error(Ordinary Error, not k-fold)= 0.25961538461538464
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.26181818181818184
+Train Error(Ordinary Error, not k-fold)= 0.25961538461538464
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.26181818181818184
+Train Error(Ordinary Error, not k-fold)= 0.25961538461538464
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.20363636363636362
+Train Error(Ordinary Error, not k-fold)= 0.20192307692307693
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.26181818181818184
+Train Error(Ordinary Error, not k-fold)= 0.25961538461538464
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.26181818181818184
+Train Error(Ordinary Error, not k-fold)= 0.25961538461538464
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.25181818181818183
+Train Error(Ordinary Error, not k-fold)= 0.25
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.26181818181818184
+Train Error(Ordinary Error, not k-fold)= 0.25961538461538464
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.26181818181818184
+Train Error(Ordinary Error, not k-fold)= 0.25961538461538464
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 4
+ratio of train set: 0.7
+10-fold-error error: 0.24272727272727268
+Train Error(Ordinary Error, not k-fold)= 0.2403846153846154
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.19363636363636366
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.19363636363636366
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.19363636363636366
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.19363636363636366
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.19363636363636366
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.19363636363636366
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.20272727272727273
+Train Error(Ordinary Error, not k-fold)= 0.20192307692307693
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.18363636363636365
+Train Error(Ordinary Error, not k-fold)= 0.18269230769230768
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.19363636363636366
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 5
+ratio of train set: 0.7
+10-fold-error error: 0.20272727272727273
+Train Error(Ordinary Error, not k-fold)= 0.20192307692307693
+Test Error= 0.43478260869565216
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.2
+Train Error(Ordinary Error, not k-fold)= 0.20192307692307693
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.2
+Train Error(Ordinary Error, not k-fold)= 0.20192307692307693
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.19090909090909094
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.21090909090909093
+Train Error(Ordinary Error, not k-fold)= 0.21153846153846154
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.19090909090909094
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.2
+Train Error(Ordinary Error, not k-fold)= 0.20192307692307693
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.19090909090909094
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.19090909090909094
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.2
+Train Error(Ordinary Error, not k-fold)= 0.20192307692307693
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 6
+ratio of train set: 0.7
+10-fold-error error: 0.19090909090909094
+Train Error(Ordinary Error, not k-fold)= 0.19230769230769232
+Test Error= 0.13043478260869565
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.09818181818181818
+Train Error(Ordinary Error, not k-fold)= 0.09615384615384616
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.09818181818181818
+Train Error(Ordinary Error, not k-fold)= 0.09615384615384616
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.09818181818181818
+Train Error(Ordinary Error, not k-fold)= 0.09615384615384616
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.09818181818181818
+Train Error(Ordinary Error, not k-fold)= 0.09615384615384616
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.09818181818181818
+Train Error(Ordinary Error, not k-fold)= 0.09615384615384616
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.09818181818181818
+Train Error(Ordinary Error, not k-fold)= 0.09615384615384616
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.27454545454545454
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.34782608695652173
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.09818181818181818
+Train Error(Ordinary Error, not k-fold)= 0.09615384615384616
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.09818181818181818
+Train Error(Ordinary Error, not k-fold)= 0.09615384615384616
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 7
+ratio of train set: 0.7
+10-fold-error error: 0.09818181818181818
+Train Error(Ordinary Error, not k-fold)= 0.09615384615384616
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.2690909090909091
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.2608695652173913
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.16454545454545455
+Train Error(Ordinary Error, not k-fold)= 0.16346153846153846
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.2690909090909091
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.2608695652173913
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.2690909090909091
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.2608695652173913
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.2690909090909091
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.2608695652173913
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.2690909090909091
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.2608695652173913
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.16454545454545455
+Train Error(Ordinary Error, not k-fold)= 0.16346153846153846
+Test Error= 0.30434782608695654
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.2690909090909091
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.2608695652173913
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.2690909090909091
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.2608695652173913
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 8
+ratio of train set: 0.7
+10-fold-error error: 0.2690909090909091
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.2608695652173913
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.01
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.11
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.21000000000000002
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.31000000000000005
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.41000000000000003
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.51
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.6100000000000001
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.7100000000000001
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.81
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+VV======================VVV=======================VV
+learning_rate: 0.91
+random state: 9
+ratio of train set: 0.7
+10-fold-error error: 0.2718181818181818
+Train Error(Ordinary Error, not k-fold)= 0.2692307692307692
+Test Error= 0.17391304347826086
+===================================================^
+
+********************************
+min test error: 0.08695652173913043
+10-fold-error error of best test error: 0.2718181818181818
+train error of best test error: 0.11538461538461539
+best learning rate: 0.01
+best random state: 0
+best weights: [[ 0.018  0.054 -0.078 -0.035]
+ [ 0.045 -0.53   0.323 -0.688]
+ [-0.766 -0.58   1.026  1.274]]

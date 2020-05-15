@@ -1,0 +1,11 @@
+{
+		"all_features":2,
+		"order":"1",
+        "ratio_of_train_set":0.70,
+		"ratio_of_valid_set":0.15,
+		"ratio_of_test_set":0.15,
+        "learning_rate":0.002,
+        "max_epochs":500,
+		"cut_error": -1,
+        "random_state":0
+}
