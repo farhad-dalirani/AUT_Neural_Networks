@@ -1,0 +1,1 @@
+Put 20news-18828 Dataset in this folder
